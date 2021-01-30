@@ -1,1 +1,2 @@
-# cargame
+# synchronousBallMovement
+Ball moving synchronously
